@@ -1,2 +1,2 @@
 # My_runner
-A Runner made with csfml for epitech project
+A Runner inspired from Castlevania made with csfml for epitech project
